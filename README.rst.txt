@@ -45,18 +45,29 @@ TODO
     [ ] Bekijk http://www.classical-music.com/review/willcocks
     [ ] Mail Jonathan Willcocks, en vraag hem waar de teksten vandaan
         komen
-    [ ] Vind editie deel 1
-    [ ] Vind editie deel 2
-    [ ] Vind editie deel 3
-    [ ] Vind editie deel 4
-    [ ] Vind editie deel 5
-    [ ] Vind editie deel 6
+    [ ] Vind editie deel 1: "The day will come when I will make for you a covenant"
+    [ ] Vind editie deel 2: "From the darkness a conflict beckons"
+    [ ] Vind editie deel 3: "Light looked down and beheld Darkness"
+    [x] Vind editie deel 4: "At dawn the ridge emerges massed and dun"
+    [ ] Vind editie deel 5: "Lord make me an instrument of Thy peace" 
+    [ ] Vind editie deel 6: "Gather us in, thou love that fillest all"
     [ ] Vind of schrijf vertaling deel 1
     [ ] Vind of schrijf vertaling deel 2
     [ ] Vind of schrijf vertaling deel 3
     [ ] Vind of schrijf vertaling deel 4
     [ ] Vind of schrijf vertaling deel 5
     [ ] Vind of schrijf vertaling deel 6
+
+Teksten
+-------
+
+Lux Perpetua -- At dawn the ridge emerges
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+auteur: Siegfried Sassoon
+oorspronkelijke bundel: Counter-attack, mei 1918
+vertalingen: ...
+editie: http://www.gutenberg.org/cache/epub/8930/pg8930.html
 
 
 Technische opmerkingen
