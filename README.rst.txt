@@ -21,15 +21,16 @@ TODO
     [ ] Vraag uitgever toestemming vertaling te gebruiken; anders
     [ ] Schrijf vertaling
 [ ] 2a. Let all mortal flesh keep silence
-    [ ] Zoek bron
-    [ ] Vind of schrijf vertaling
-[ ] 2b. Justorum animae (Spreuken 3)
-    [ ] Vertaal uit Bijbel
-[ ] 2c. Beati quorum via integra est (Psalm 119:1)
-    [ ] Vertaal uit Bijbel
-[ ] 2d. Coelos ascendit hodie
-    [ ] Zoek auteur
-    [ ] Vind of schrijf vertaling
+    [x] Zoek bron
+    [x] Zoek vertaling (gedaan, bestaat niet)
+    [ ] Schrijf vertaling
+[x] 2b. Justorum animae (Spreuken 3)
+    [x] Vertaal uit Bijbel
+[x] 2c. Beati quorum via integra est (Psalm 119:1)
+    [x] Vertaal uit Bijbel
+[x] 2d. Coelos ascendit hodie
+    [x] Zoek auteur
+    [x] Vind of schrijf vertaling
 [ ] 3. Love’s blindness (Alfred Austin)
     [ ] Zoek betrouwbare editie (voor regeleindes)
     [ ] Vind of schrijf vertaling
