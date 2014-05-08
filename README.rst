@@ -14,8 +14,8 @@ TODO
 - [x] Zet dit op Github
 - [ ] Voeg kopje 'Help mee' toe, + uitleg over hoe je via Github een
     edit kunt voorstellen
-- [ ] Zoek RSS feed repo
-- [ ] Laat Jantiene + CM Facebookgroep weten waar ze voortgang kunnen
+- [x] Zoek RSS feed repo
+- [x] Laat Jantiene + CM Facebookgroep weten waar ze voortgang kunnen
     volgen
 - [ ] 1. Hymn to St. Cecilia (W.H. Auden)
     - [ ] Zoek Nederlandse vertaling
