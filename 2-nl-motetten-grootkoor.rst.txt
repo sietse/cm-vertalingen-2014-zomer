@@ -7,18 +7,18 @@ Let all mortal flesh keep silence
 :muziek: E.C. Bairstow
 :tekst: Naar de Liturgie van de Heilige Jakobus
 
-Laat alle sterfelijk vlees zwijgen en met angst en beven staan, en zich
-    boven alle aardse gedachtes verheffen.
-Want de Koning der Koningen en Heere der Heeren, Christus onze God,
-    treedt nader om onze offergave te zijn, en om als Voedsel te worden
-    gegeven aan zij die geloven.
-De engelenkoren gaan voor hem uit, met iedere heerschappij en macht [1]:
-de cherubijnen met vele ogen en gevleugelde serafijnen, die hun gezicht
-    met een sluier bedekken terwijl zij juichend het loflied roepen.
-Alleluia!
-
-Tenor + Bas: 
-Laat alle sterfelijk vlees zwijgen en met angst en beven staan.
+| Laat alle sterfelijk vlees zwijgen en met angst en beven staan, en zich
+|   boven alle aardse gedachtes verheffen.
+| Want de Koning der Koningen en Heere der Heeren, Christus onze God,
+|   treedt nader om onze offergave te zijn, en om als Voedsel te worden
+|   gegeven aan zij die geloven.
+| De engelenkoren gaan voor hem uit, met iedere heerschappij en macht [1]:
+| de cherubijnen met vele ogen en gevleugelde serafijnen, die hun gezicht
+|   met een sluier bedekken terwijl zij juichend het loflied roepen.
+| Alleluia!
+|
+| Tenor + Bas: 
+| Laat alle sterfelijk vlees zwijgen en met angst en beven staan.
 
 [1] De heerschappijen, machten, cherubijnen, en serafijnen zijn allen
 engelenkoren. De indeling van de engelen in een hierarchie van negen
@@ -43,18 +43,18 @@ Coelos ascendit hodie
 :muziek: C.V. Stanford
 :tekst: onbekend
 
-Vandaag is opgestegen naar de hemel, alleluia!
-Jezus Christus, Koning der heerlijkheid, alleluia!
-Hij zit aan de rechterhand van de Vader, etc.
-en heerst over hemel en aarde.
-Nu zijn al David's liederen vervuld
-Nu is de Heer bij zijn Heer
-Hij zit op de troon van God,
-In deze grootste triomf.
-Laten wij de Heer zegenen
-Laten wij de de Heilige Drie-eenheid prijzen
-Laten wij God danken
-Amen.
+| Vandaag is opgestegen naar de hemel, alleluia!
+| Jezus Christus, Koning der heerlijkheid, alleluia!
+| Hij zit aan de rechterhand van de Vader, etc.
+| en heerst over hemel en aarde.
+| Nu zijn al David's liederen vervuld
+| Nu is de Heer bij zijn Heer
+| Hij zit op de troon van God,
+| In deze grootste triomf.
+| Laten wij de Heer zegenen
+| Laten wij de de Heilige Drie-eenheid prijzen
+| Laten wij God danken
+| Amen.
 
 
 Beati quorum via
@@ -64,4 +64,4 @@ Beati quorum via
 :tekst: Psalm 119:1 (De Nieuwe Bijbelvertaling, © 2004/2007 Nederlands
 Bijbelgenootschap)
 
-Gelukkig wie de volmaakte weg gaan en leven naar de wet van de Heer.
+| Gelukkig wie de volmaakte weg gaan en leven naar de wet van de Heer.

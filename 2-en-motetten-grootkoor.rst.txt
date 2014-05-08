@@ -4,82 +4,81 @@ Motetten grootkoor
 Let all mortal flesh keep silence 
 =================================
 
-music: E.C. Bairstow
-words:
+:music: E.C. Bairstow
+:words:
 
-Let all mortal flesh keep silence and stand with fear and trembling, and
-    lift itself above all earthly thought.
-For the King of Kings and Lord of Lords, Christ our God, cometh forth to
-    be our oblation and to be giv’n for Food to the faithful.
-Before him come the choirs of angels, with every principality and pow’r:
-The cherubim with many eyes and winged seraphim, who veil their faces as
-    they shout exultingly the hymn.
-Alleluia! 
+| Let all mortal flesh keep silence and stand with fear and trembling, and
+|   lift itself above all earthly thought.
+| For the King of Kings and Lord of Lords, Christ our God, cometh forth to
+|   be our oblation and to be giv’n for Food to the faithful.
+| Before him come the choirs of angels, with every principality and pow’r:
+| The cherubim with many eyes and winged seraphim, who veil their faces as
+|   they shout exultingly the hymn.
+| Alleluia! 
+|
+| Tenor + Bas: 
+| Let all mortal flesh keep silence and stand with fear and trembling. 
 
-Tenor + Bas: 
-Let all mortal flesh keep silence and stand with fear and trembling. 
-
-Tekst uit andere liturgie:
-"Wij danken U ook voor deze Eucharistie, die Gij uit onze handen wilt
-aanvaarden, terwijl Gij toch beschikt over duizenden Aartsengelen en
-tienduizenden Engelen, over Cherubijnen en Serafijnen met zes vleugels
-en vele ogen, hoog opwiekend, het triomflied zinden, roepend, luid
-jubelend en zeggend"
+| Tekst uit andere liturgie:
+| "Wij danken U ook voor deze Eucharistie, die Gij uit onze handen wilt
+  aanvaarden, terwijl Gij toch beschikt over duizenden Aartsengelen en
+  tienduizenden Engelen, over Cherubijnen en Serafijnen met zes vleugels
+  en vele ogen, hoog opwiekend, het triomflied zinden, roepend, luid
+  jubelend en zeggend"
 
 
 Justorum animae
 ===============
 
-music: C.V. Stanford
-words: Proverbs 3
+:music: C.V. Stanford
+:words: Proverbs 3
 
-Justorum animae in manu Dei sunt et non tanget illos tormentum malitiae.
-Visi sunt oculis insipientium mori, illi autem sunt in pace. 
+Justorum animae in manu Dei sunt et non tanget illos tormentum malitiae. Visi sunt oculis insipientium mori, illi autem sunt in pace. 
 
 
 Coelos ascendit hodie
 =====================
 
-music: C.V. Stanford
-words: 
+:music: C.V. Stanford
+:words: 
 
-Coelos ascendit hodie, alleluia!
-Jesus Christus Rex gloriae, alleluia!
-Sedet ad Patris dexteram, alleluia!
-Gubernat coelum et terram [etc.]
-Iam finem habent omnia
-Patris Davidis carmina
-Iam Dominus cum Domino
-Sedet in Dei solio
-In hoc triumpho maximo
-Benedicamus Domino
-Laudatur Sancta Trinitas
-Deo dicamus gratias
-Amen.
+| Coelos ascendit hodie, alleluia!
+| Jesus Christus Rex gloriae, alleluia!
+| Sedet ad Patris dexteram, alleluia!
+| Gubernat coelum et terram [etc.]
+| Iam finem habent omnia
+| Patris Davidis carmina
+| Iam Dominus cum Domino
+| Sedet in Dei solio
+| In hoc triumpho maximo
+| Benedicamus Domino
+| Laudatur Sancta Trinitas
+| Deo dicamus gratias
+| Amen.
 
-Today Jesus Christ, the King of Glory, has ascended into the heavens,
-He sits at the Father's right hand, ruling heaven and earth,
-Now are David's songs fulfilled,
-Now is the Lord with his Lord,
-He sits upon the royal throne of God in this His greatest
-Let us bless the Lord: let the Holy Trinity be praised,
-Let us give thanks to the Lord, 
+| Today Jesus Christ, the King of Glory, has ascended into the heavens,
+| He sits at the Father's right hand, ruling heaven and earth,
+| Now are David's songs fulfilled,
+| Now is the Lord with his Lord,
+| He sits upon the royal throne of God in this His greatest
+| Let us bless the Lord: let the Holy Trinity be praised,
+| Let us give thanks to the Lord, 
 
-Aujourd'hui, Jésus-Christ, le Roi de gloire est monté aux cieux,
-Il est assis à la droite du Père et règne les cieux et la terre,
-Les chansons de David ont été exaucées,
-Le Seigneur est avec son Seigneur,
-Il est assis sur le trône royal de Dieu, Alléluia!
-Ceci est son grand triomphe, Alléluia!
-Nous bénissons le Dieu:
-Nous louons la Trinité Sainte,
-Nous rendons grâces à Dieu, Alléluia! Amen.
+| Aujourd'hui, Jésus-Christ, le Roi de gloire est monté aux cieux,
+| Il est assis à la droite du Père et règne les cieux et la terre,
+| Les chansons de David ont été exaucées,
+| Le Seigneur est avec son Seigneur,
+| Il est assis sur le trône royal de Dieu, Alléluia!
+| Ceci est son grand triomphe, Alléluia!
+| Nous bénissons le Dieu:
+| Nous louons la Trinité Sainte,
+| Nous rendons grâces à Dieu, Alléluia! Amen.
 
 
 Beati quorum via
 ================
 
-music: C.V. Stanford
-words: Psalm 119:1
+:music: C.V. Stanford
+:words: Psalm 119:1
 
-Beati quorum via integra est, qui ambulant in lege Domini.
+| Beati quorum via integra est, qui ambulant in lege Domini.
