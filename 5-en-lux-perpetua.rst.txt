@@ -1,8 +1,9 @@
 Lux Perpetua – peace and unity
 ==============================
 
-:music: Jonathan Willcocks
-:words: various authors
+music: Jonathan Willcocks
+
+words: various authors
 
 
 1.
@@ -54,7 +55,8 @@ Lux Perpetua – peace and unity
 | And the Word was made Flesh and dwelt among us.
 
 | Solo (alt + bas):
-| Let us be united, let us speak in harmony, common be our prayer, perfect be our unity.
+| Let us be united, let us speak in harmony,
+  common be our prayer, perfect be our unity.
 
 | Kyrie eleison, Christe eleison, kyrie eleison
 
@@ -74,13 +76,13 @@ Lux Perpetua – peace and unity
 | they leave their trenches, going over the top,
 | while time ticks blank and busy on their wrists,
 | and hope, with furtive eyes and grappling fists,
-| flounders in the mud…
-| O Jesus, make it stop! O Jesus, make it stop!
+| flounders in mud…
+| O Jesus, make it stop!
 
 | Solo (sopraan + tenor):
 | Show us thy mercy, O Lord, and grant us thy salvation.
 
-| Kyrie eleison, Christe eleison, kyrie eleison
+| Kyrie eleison, Christe eleison, Kyrie eleison
 
 
 5.
@@ -89,7 +91,7 @@ Lux Perpetua – peace and unity
 | Lord, make me an instrument of Thy peace;
 | where there  is hatred, let me sow love,
 | where there is injury, pardon,
-| where there is discord, may there union,
+| where there is discord, may there be union,
 | where there is doubt, faith.
 | Lord, make me an instrument of Thy peace;
 | where there is despair, let there be hope,
