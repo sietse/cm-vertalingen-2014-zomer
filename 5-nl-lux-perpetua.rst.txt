@@ -1,12 +1,12 @@
 Lux Perpetua – peace and unity
 ==============================
 
-:music: Jonathan Willcocks
-:words: various authors
+music: Jonathan Willcocks
+words: various authors
 
 
 1.
-~~~~
+----
 
 | Heer, geef hun de eeuwige rust, en laat het eeuwige licht op hen schijnen.
 | De dag zal komen dat ik voor jullie een verbond sluit met het wild
@@ -19,7 +19,7 @@ Lux Perpetua – peace and unity
 (Vrij naar Hosea 2:17 van de Herziene Statenvertaling)
 
 2.
-~~~~
+----
 
 | Een leger marcheert, marcheert naar het front.
 | Een conflict wenkt vanuit het duister.
@@ -43,7 +43,7 @@ Lux Perpetua – peace and unity
 
 
 3.
-~~~~
+----
 
 | Het Licht keek neer en zag Duisternis
 | Ik ga daar naartoe, zei het Licht.
@@ -65,7 +65,7 @@ Lux Perpetua – peace and unity
 
 
 4.
-~~~~
+----
 
 | De heuvelrug doemt 's morgens op, grauw en massief
 | onder het wilde paars van de strenge zon,
@@ -90,14 +90,13 @@ Lux Perpetua – peace and unity
 
 
 5.
-~~~~
+----
 
 | Heer, maak mij een instrument van Uw vrede;
 | waar er haat is, laat mij liefde zaaien,
 | waar er gekwetst is, vergeving,
 | waar er twist is, laat daar eenheid zijn,
 | waar er twijfel is, geloof.
-| where there is doubt, vertrouwen.
 | Heer, maak mij een instrument van Uw vrede;
 | waar er wanhoop is, laat daar hoop zijn,
 | waar er duisternis is, licht,
@@ -106,33 +105,34 @@ Lux Perpetua – peace and unity
 
 | Solo (alt + bas):
 
-| May we all be in peace, and may that peace come unto each of us.
+| Laat ons allemaal in vrede zijn, en moge die vrede tot
+ieder van ons komen.
 
 
 6.
-~~~~
+----
 
-| Et lux perpetua luceat eis.
+| En laat het eeuwige licht op hen schijnen.
 
-| Gather us in, thou love that filleth all,
-| gather our rival faiths within thy fold.
-| Rend each man’s templeveil and bid it fall,
-| that we may know that thou hast been of old.
-| Gather us in!
+| Breng ons bijeen, gij liefde die alles vult
+| breng onze rivalerende geloven bijeen in uw kudde.
+| Scheur ieders tempel-sluier en beveel hem te vallen
+| opdat wij weten dat gij al van oudsher bestaat.
+| Breng ons bijeen!
 
-| Soli (allemaal):
-| As we are together, praying for peace,
-| we worship only thee,
-| in varied names we stretch a common hand.
-| Let us be truly with each other, praying for peace.
-| In diverse forms a common soul we see,
-| in many ships we seek one spirit land.
-| Gather us in!
+| Soli (gezamenlijk):
+| Terwijl wij samen zijn, biddend voor vrede,
+| aanbidden wij U alleen,
+| onder verscheidene namen strekken wij een gemeenschappelijke hand uit.
+| Laat ons waarlijk met elkaar izjn, biddend voor vrede.
+| In verschillende vormen zien wij dezelfde ziel,
+| in vele schepen zoeken wij één geestesland.
+| Breng ons bijeen!
 
-| Each sees one colour of thy rainbow light,
-| each looks upon one tint and calls it heaven.
-| Thou art the fullness of our partial sight,
-| we are not perfect till we find the seven.
-| Gather us in!
+| Elk ziet een kleur van uw regenbooglicht,
+| elk beziet een tint en noemt die hemel,
+| Gij zijt de volheid van ons beperkte zicht,
+| Wij zijn niet perfect to wij de zeven vinden.
+| Breng ons bijeen!
 
-| Requiescant in pace. Amen.
+| Zij rusten in vrede. Amen.
