@@ -1,95 +1,104 @@
 Hymn to St. Cecilia
 ===================
 
-music: Benjamin Britten,
-words: W.H. Auden
+| muziek: Benjamin Britten
+| tekst: W.H. Auden
 
 I.
 ----
 
-Deze heilige vrouwe, in een tuin vol schaduw,
-Met eerbiedige cadenza en subtiele psalm,
-Als een zwarte zwaan met de dood in haar nek
-Plengde haar lied uit in volledige kalmte:
-En bij de rand van de
+| Deze heilige vrouwe, in een tuin vol schaduw,
+| Met eerbiedige cadenza en subtiele psalm,
+| als een zwarte zwaan met de dood die haar nadert
+| Goot haar gezang uit in complete kalmte:
+| Bij de rand van de zee bouwde de zuivere
+| maagd een orgel om haar gebed te vergroten.
+| En daverende noten van haar ontzaglijke machine
+| Donderden door de Romeinse lucht.
 
-Constructed an organ to enlarge her prayer, 
-And notes tremendous from her great engine 
-Thundered out on the Roman air. 
-Blonde Aphrodite rose up excited, 
-Moved to delight by the melody, 
-White as an orchid she rode quite naked 
-In an oyster shell on top of the sea; 
-At sounds so entrancing the angels dancing 
-Came out of their trance into time again, 
-And around the wicked in Hell's abysses 
-The huge flame flickered and eased their pain. 
+| Blonde Aphrodite verrees opgewonden,
+| Tot verrukking gebracht door de melodie,
+| Wit als een orchidee reed zij, volledig naakt
+| In een oesterschelp over de golven der zee;
+| Bij geluiden zo betoverend kwamende de dansende
+| Engelen weer uit hun trance terug de tijd in,
+| En rondom de zondaars in het hellevuurs krochten
+| Flakkerde de grote vlam en verzachtte hun pijn.
 
-Blessed Cecilia, appear in visions 
-To all musicians, appear and inspire: 
-Translated Daughter, come down and startle 
-Composing mortals with immortal fire.
- 
+| Gezegende Cecilia, verschijn in visioenen
+| aan alle muzikanten, verschijn en inspireer:
+| Omgezette Dochter, daal neer en overrompel
+| Scheppende stervelingen met onsterfelijk vuur.
+
 II.
 ----
 
-Ik kan niet groeien;
-Ik heb geen schaduw
-om voor te vluchten,
-Ik speel slechts.
-Ik kan geen fout begaan;
-Er is geen schepsel
-Dat ik toebehoor,
-Dat ik kwetsen kan.
-Ik ben nederlaag
-Als het weet dat het
-Nu niets kan uithalen
-Door te lijden.
-Al dat je doorstaan hebt,
-Dansend omdat je
-Het voor geen van je daden
-Nog nodig hebt.
-Ik zal nooit Anders zijn. Hou van mij.
+| Ik kan niet groeien;
+| Ik heb geen schaduw
+| om voor te vluchten,
+| Ik speel alleen maar.
 
-Zalige Cecilia, verschijn in visioenen
-aan alle muzikanten, verschijn en inspireer:
-Omgezette Dochter, daal neer en verras
-Scheppende stervelingen met onsterfelijk vuur.
- 
+| Ik kan niets fout down;
+| Er is geen wezen
+| Dat ik toebehoor,
+| Dat ik kwetsen kan.
+
+| Ik ben de nederlaag
+| Als hij weet dat hij nu
+| Niets meer kan uithalen
+| Door te lijden.
+
+| Al dat je doorstaan hebt,
+| Dansend omdat jij het
+| voor geen enkele daad
+| Nog nodig hebt.
+
+| Ik zal nooit Anders
+| zijn. Hou van mij.
+
+| Gezegende Cecilia, verschijn in visioenen
+| aan alle muzikanten, verschijn en inspireer:
+| Omgezette Dochter, daal neer en overrompel
+| Scheppende stervelingen met onsterfelijk vuur.
+
 III.
 ----
 
-O ear whose creatures cannot wish to fall, 
-O calm of spaces unafraid of weight, 
-Where Sorrow is herself, forgetting all 
-The gaucheness of her adolescent state, 
-Where Hope within the altogether strange 
-From every outworn image is released, 
-And Dread born whole and normal like a beast 
-Into a world of truths that never change: 
-Restore our fallen day; O re-arrange. 
-O dear white children casual as birds, 
-Playing among the ruined languages, 
-So small beside their large confusing words, 
-So gay against the greater silences 
-Of dreadful things you did: O hang the head, 
-Impetuous child with the tremendous brain, 
-O weep, child, weep, O weep away the stain, 
-Lost innocence who wished your lover dead, 
-Weep for the lives your wishes never led. 
-O cry created as the bow of sin Is drawn across our trembling violin. 
-O weep, child, weep, O weep away the stain. 
-O law drummed out by hearts against the still 
-Long winter of our intellectual will. 
-That what has been may never be again. 
-O flute that throbs with the thanksgiving breath 
-Of convalescents on the shores of death. 
-O bless the freedom that you never chose.
-O trumpets that unguarded children blow 
-About the fortress of their inner foe. 
-O wear your tribulation like a rose. 
+| O oor waarvan de schepselen nooit willen vallen,
+| O kalmte van ruimtes zonder angst voor gewicht,
+| Waar het Verdriet zichzelf is, en vergeet
+| Alle onhebbelijkheid van haar adolescente toestand,
+| Waar de Hoop die in het ronduit vreemde leeft
+| Dat ieder versleten beeld heeft, wordt bevrijdt,
+| En de Vrees gewoon en heel zoals een beest
+| Geboren wordt in een wereld van blijvende waarheden:
+| Herstel onze gevallen dag; O redresseer.
 
-Blessed Cecilia, appear in visions 
-To all musicians, appear and inspire: 
-Translated Daughter, come down and startle 
-Composing mortals with immortal fire.
+| O lieve witte kinderen terloops als vogels,
+| Die spelen tussen de vergane talen,
+| Zo klein naast hun grote verwarrende woorden,
+| Zo vrolijk tegen de grotere stiltes
+| Van verschrikkelijke dingen die jullie
+|   hebben gedaan: O laat je hoofd hangen,
+| Onstuimig kind met het enorme brein,
+| O ween, kind, ween, O ween de smet weer weg,
+| Verloren onschuld die je minnaar doodwenste,
+| Ween om de levens die je wensen zelf nooit leidden.
+
+| O huilklank die weerklinkt als strijkstok van zonde
+| Over onze bevende viool gestreken wordt.
+| O ween, kind, ween, O ween de smet weer weg,
+| O wet door harten geslagen tegen de stille
+| Lange winter van onze intellectuele wil.
+| Dat wat geweest is komt misschien nooit meer terug.
+| O fluit die pulseert met de dankende adem
+| van herstellenden aan de rand van de dood.
+| O zegen de vrijheid die je zelf niet koos.
+| O trompetten die loslopende kinderen alom
+| de vesting van hun innerlijke vijand doen schallen.
+| O draag jullie beproeving als een roos.
+
+| Gezegende Cecilia, verschijn in visioenen
+| aan alle muzikanten, verschijn en inspireer:
+| Omgezette Dochter, daal neer en overrompel
+| Scheppende stervelingen met onsterfelijk vuur.
