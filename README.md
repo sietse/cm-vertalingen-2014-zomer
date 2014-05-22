@@ -41,7 +41,7 @@ de vertaling kunnen volgen en zich ertegenaan bemoeien.
   - [ ] Vind of schrijf vertaling
 - [ ] 4c. Drunken sailor
   - [ ] Bekijk exemplaar muziek (check laatste vers)
-- [ ] 5. Lux perpetua
+- [x] 5. Lux perpetua
   - [ ] Bekijk http://www.classical-music.com/review/willcocks
   - [ ] Mail Jonathan Willcocks, en vraag hem waar de teksten
     vandaan komen
@@ -73,3 +73,74 @@ de vertaling kunnen volgen en zich ertegenaan bemoeien.
 ## Technische opmerkingen
 
 Deze bestanden zijn in reStructuredText geschreven.
+
+## Feedback Alain
+
+Alain: Opmerkingen hier of zal ik ze mailen?
+8 May at 22:53 · Like
+
+
+
+Sietse Bärouwer Hier prima, dunkt me.
+9 May at 08:22 · Like
+
+
+
+Alain Corbeau Bairstow:
+r.2: Ik zou zeggen 'gedachteN', want dat staat ouderwetser dan '-s'.
+Ik zou 'veil' niet vertalen als 'met een sluier bedekken', ten eerste
+staat het wat wollig, ten tweede meen ik (maar dat kunnen we nakijken)
+dat in Openbaringen staat dat ze hun gezichten met hun vleugels
+bedekken. Alleen 'bedekken' volstaat dan dus.
+
+Sowieso 'Halleluja' i.p.v. 'Alleluia'.
+
+Stanford, Justorum Animae:
+'schenen zij dood te zijn', beter lijkt me 'lijken zij dood (te zijn)'.
+'Visi sunt' is weliswaar een pf.pass., maar wellicht is een tegenw. tijd
+toch een betere keus, want het gaat denk ik om het resultaat. Hoe dan
+ook, dit is maar een overdenking - ik vermoed dat onze Latinisten een
+beter oordeel hebben.
+
+Coelos:
+Wederom 'Halleluja'
+
+Beati:
+Tja, als de vertaling die van de officiële NL Bijbel is, is het wellicht
+hoogmoed om deze te veranderen, maar als je het Latijn letterlijk wilt
+nemen, denk ik meer aan 'Gelukkig (of: zalig) zijn zij van wie de weg
+volmaakt is en die wandelen in (=volgens?) de wet des Heren.' Of zoiets.
+
+Verder, puik werk! Niks meer op aan te merken 
+9 May at 14:46 · Edited · Like
+
+
+
+Nina van Ruijven waarom zou bairstow ouderwets moeten klinken? het enige
+zogezegd ouderwetse aan de engelse tekst is de "cometh", maar dat is
+meer kerkelijk dan echt ouderwets. Dus ik zou gewoon gedachtes laten
+staan. Ik vind zelf "alle sterfelijk vlees" niet zo mooi klinken. Maak
+er wat mij betreft eerder "al het sterfelijk vlees" van. Misschien ook
+beter om "Heer der Heeren" te zeggen, al is dat meer mijn gevoel. Verder
+idd bedekken en gewoon Halleluja, zoals Alain al zei! 
+9 May at 14:57 · Like
+
+
+
+Nina van Ruijven ik ga me niet wagen aan de Latijnse teksten, dit laat
+ik toch liever over aan degenen die er meer verstand van hebben dan ik
+(Heb je Willcocks ook al gedaan?)
+9 May at 14:58 · Edited · Like
+
+
+
+Arjan van Breemen Ok, wat is de logica van de ene in het Nederlands, de
+ander in engels en frans?
+10 May at 11:03 · Like
+
+
+
+Sietse Bärouwer Ik had een Engelse + Franse vertaling gevonden van het
+Latijn. Het leek mij veiliger om de NL vertaling daarop te baseren in
+plaats van direct op het Latijn. Mijn Latijn is een beetje van het
+niveau "Una coffea lactaque quando te placet."
