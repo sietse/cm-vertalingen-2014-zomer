@@ -15,10 +15,9 @@ de vertaling kunnen volgen en zich ertegenaan bemoeien.
 - [x] Zoek RSS feed repo
 - [x] Laat Jantiene + CM Facebookgroep weten waar ze voortgang kunnen
   volgen
-- [ ] 1. Hymn to St. Cecilia (W.H. Auden)
-  - [ ] Zoek Nederlandse vertaling
-  - [ ] Vraag uitgever toestemming vertaling te gebruiken; anders
-  - [ ] Schrijf vertaling
+- [x] 1. Hymn to St. Cecilia (W.H. Auden)
+  - [x] Zoek Nederlandse vertaling
+  - [x] Schrijf vertaling
 - [x] 2a. Let all mortal flesh keep silence
   - [x] Zoek bron
   - [x] Zoek vertaling (gedaan, bestaat niet)
@@ -30,34 +29,23 @@ de vertaling kunnen volgen en zich ertegenaan bemoeien.
 - [x] 2d. Coelos ascendit hodie
   - [x] Zoek auteur
   - [x] Vind of schrijf vertaling
-- [ ] 3. Love’s blindness (Alfred Austin)
-  - [ ] Zoek betrouwbare editie (voor regeleindes)
-  - [ ] Vind of schrijf vertaling
-- [ ] 4a. Come, drink a jug of this
+- [x] 3. Love’s blindness (Alfred Austin)
+  - [x] Zoek betrouwbare editie (voor regeleindes)
+  - [x] Vind of schrijf vertaling
+- [x] 4a. Come, drink a jug of this
   - [ ] Zoek betrouwbare editie (voor regeleindes, interpunctie)
-  - [ ] Vind of schrijf vertaling
-- [ ] 4b. Demons
+  - [x] Vind of schrijf vertaling
+- [x] 4b. Demons
   - [ ] Zoek betrouwbare editie (voor regeleindes, interpunctie)
-  - [ ] Vind of schrijf vertaling
-- [ ] 4c. Drunken sailor
+  - [x] Vind of schrijf vertaling
+- [x] 4c. Drunken sailor
   - [ ] Bekijk exemplaar muziek (check laatste vers)
-- [x] 5. Lux perpetua
-  - [ ] Bekijk http://www.classical-music.com/review/willcocks
-  - [ ] Mail Jonathan Willcocks, en vraag hem waar de teksten
-    vandaan komen
-  - [ ] Vind editie deel 1: "The day will come when I will make for
-    you a covenant"
-  - [ ] Vind editie deel 2: "From the darkness a conflict beckons"
-  - [ ] Vind editie deel 3: "Light looked down and beheld Darkness"
-  - [x] Vind editie deel 4: "At dawn the ridge emerges massed and dun"
-  - [ ] Vind editie deel 5: "Lord make me an instrument of Thy peace"
-  - [ ] Vind editie deel 6: "Gather us in, thou love that fillest all"
-  - [ ] Vind of schrijf vertaling deel 1
-  - [ ] Vind of schrijf vertaling deel 2
-  - [ ] Vind of schrijf vertaling deel 3
-  - [ ] Vind of schrijf vertaling deel 4
-  - [ ] Vind of schrijf vertaling deel 5
-  - [ ] Vind of schrijf vertaling deel 6
+  - [x] Vertalen
+- [ ] 5. Lux perpetua
+  - [ ] vertalen
+  - [ ] Lineke heeft overzicht bronnen gestuurd
+  - [ ] May we all be in Peace aan vertaling + origineel toevoegen
+  - [ ] tekst vergelijken met officiële tekst die L stuurde
 
 ## Teksten
 
